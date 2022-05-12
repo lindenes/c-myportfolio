@@ -1,0 +1,48 @@
+D:\developing\c# шарага\Lab4\Lab4\bin\Debug\netcoreapp3.1\Lab4.exe
+D:\developing\c# шарага\Lab4\Lab4\bin\Debug\netcoreapp3.1\Lab4.deps.json
+D:\developing\c# шарага\Lab4\Lab4\bin\Debug\netcoreapp3.1\Lab4.runtimeconfig.json
+D:\developing\c# шарага\Lab4\Lab4\bin\Debug\netcoreapp3.1\Lab4.runtimeconfig.dev.json
+D:\developing\c# шарага\Lab4\Lab4\bin\Debug\netcoreapp3.1\Lab4.dll
+D:\developing\c# шарага\Lab4\Lab4\bin\Debug\netcoreapp3.1\Lab4.pdb
+D:\developing\c# шарага\Lab4\Lab4\obj\Debug\netcoreapp3.1\Lab4.csproj.AssemblyReference.cache
+D:\developing\c# шарага\Lab4\Lab4\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\developing\c# шарага\Lab4\Lab4\obj\Debug\netcoreapp3.1\App.g.cs
+D:\developing\c# шарага\Lab4\Lab4\obj\Debug\netcoreapp3.1\Lab4_MarkupCompile.cache
+D:\developing\c# шарага\Lab4\Lab4\obj\Debug\netcoreapp3.1\Lab4_MarkupCompile.lref
+D:\developing\c# шарага\Lab4\Lab4\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\developing\c# шарага\Lab4\Lab4\obj\Debug\netcoreapp3.1\Lab4.g.resources
+D:\developing\c# шарага\Lab4\Lab4\obj\Debug\netcoreapp3.1\Lab4.GeneratedMSBuildEditorConfig.editorconfig
+D:\developing\c# шарага\Lab4\Lab4\obj\Debug\netcoreapp3.1\Lab4.AssemblyInfoInputs.cache
+D:\developing\c# шарага\Lab4\Lab4\obj\Debug\netcoreapp3.1\Lab4.AssemblyInfo.cs
+D:\developing\c# шарага\Lab4\Lab4\obj\Debug\netcoreapp3.1\Lab4.csproj.CoreCompileInputs.cache
+D:\developing\c# шарага\Lab4\Lab4\obj\Debug\netcoreapp3.1\Lab4.dll
+D:\developing\c# шарага\Lab4\Lab4\obj\Debug\netcoreapp3.1\Lab4.pdb
+D:\developing\c# шарага\Lab4\Lab4\obj\Debug\netcoreapp3.1\Lab4.genruntimeconfig.cache
+D:\developing\c# шарага\Lab4\Lab4\obj\Debug\netcoreapp3.1\FileName.g.cs
+D:\developing\c# шарага\Lab4\Lab4\obj\Debug\netcoreapp3.1\FileName.baml
+D:\developing\c# шарага\Lab4\Lab4\obj\Debug\netcoreapp3.1\InfoWindow.g.cs
+D:\developing\c# шарага\Lab4\Lab4\obj\Debug\netcoreapp3.1\InfoWindow.baml
+D:\developing\Lab4\Lab4\bin\Debug\netcoreapp3.1\Lab4.exe
+D:\developing\Lab4\Lab4\bin\Debug\netcoreapp3.1\Lab4.deps.json
+D:\developing\Lab4\Lab4\bin\Debug\netcoreapp3.1\Lab4.runtimeconfig.json
+D:\developing\Lab4\Lab4\bin\Debug\netcoreapp3.1\Lab4.runtimeconfig.dev.json
+D:\developing\Lab4\Lab4\bin\Debug\netcoreapp3.1\Lab4.dll
+D:\developing\Lab4\Lab4\bin\Debug\netcoreapp3.1\Lab4.pdb
+D:\developing\Lab4\Lab4\obj\Debug\netcoreapp3.1\Lab4.csproj.AssemblyReference.cache
+D:\developing\Lab4\Lab4\obj\Debug\netcoreapp3.1\FileName.g.cs
+D:\developing\Lab4\Lab4\obj\Debug\netcoreapp3.1\InfoWindow.g.cs
+D:\developing\Lab4\Lab4\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\developing\Lab4\Lab4\obj\Debug\netcoreapp3.1\App.g.cs
+D:\developing\Lab4\Lab4\obj\Debug\netcoreapp3.1\Lab4_MarkupCompile.cache
+D:\developing\Lab4\Lab4\obj\Debug\netcoreapp3.1\Lab4_MarkupCompile.lref
+D:\developing\Lab4\Lab4\obj\Debug\netcoreapp3.1\FileName.baml
+D:\developing\Lab4\Lab4\obj\Debug\netcoreapp3.1\InfoWindow.baml
+D:\developing\Lab4\Lab4\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\developing\Lab4\Lab4\obj\Debug\netcoreapp3.1\Lab4.g.resources
+D:\developing\Lab4\Lab4\obj\Debug\netcoreapp3.1\Lab4.GeneratedMSBuildEditorConfig.editorconfig
+D:\developing\Lab4\Lab4\obj\Debug\netcoreapp3.1\Lab4.AssemblyInfoInputs.cache
+D:\developing\Lab4\Lab4\obj\Debug\netcoreapp3.1\Lab4.AssemblyInfo.cs
+D:\developing\Lab4\Lab4\obj\Debug\netcoreapp3.1\Lab4.csproj.CoreCompileInputs.cache
+D:\developing\Lab4\Lab4\obj\Debug\netcoreapp3.1\Lab4.dll
+D:\developing\Lab4\Lab4\obj\Debug\netcoreapp3.1\Lab4.pdb
+D:\developing\Lab4\Lab4\obj\Debug\netcoreapp3.1\Lab4.genruntimeconfig.cache

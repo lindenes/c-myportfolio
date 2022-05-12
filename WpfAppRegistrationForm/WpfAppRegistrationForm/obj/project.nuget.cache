@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "cn2VPcMEIBenNcaKsR7uiBaAyrpOzkVaZ30fiWTkJ6idbCP40H1cdp/W+GEWcWy8otPN+8lf9+RhJhSZtcaKjA==",
+  "success": true,
+  "projectFilePath": "D:\\developing\\c# шарага\\WpfAppRegistrationForm\\WpfAppRegistrationForm\\WpfAppRegistrationForm.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\naryk\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512",
+    "C:\\Users\\naryk\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\naryk\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\naryk\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

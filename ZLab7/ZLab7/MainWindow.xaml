@@ -1,0 +1,61 @@
+﻿<Window x:Class="ZLab7.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ZLab7"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*">
+
+            </ColumnDefinition>
+            <ColumnDefinition>
+
+            </ColumnDefinition>
+            <ColumnDefinition>
+
+            </ColumnDefinition>
+            <ColumnDefinition>
+
+            </ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition>
+
+            </RowDefinition>
+            <RowDefinition>
+
+            </RowDefinition>
+            <RowDefinition>
+
+            </RowDefinition>
+            <RowDefinition>
+
+            </RowDefinition>
+            <RowDefinition>
+
+            </RowDefinition>
+        </Grid.RowDefinitions>
+        <Rectangle  Name="RecForm2" HorizontalAlignment="Left" Height="260" Margin="64,44,0,0" Grid.Row="1" Stroke="Black" VerticalAlignment="Top" Width="282" Grid.ColumnSpan="2" Grid.RowSpan="4">
+
+        </Rectangle>
+        <Rectangle Name="RecForm" HorizontalAlignment="Left" Height="260" Margin="64,44,0,0" Grid.Row="1" Stroke="Black" VerticalAlignment="Top" Width="282" Grid.ColumnSpan="2" Grid.RowSpan="4">
+            <Rectangle.Fill>
+                <ImageBrush x:Name="Flag" Viewport="0.25,0.25,0.5,0.5" ImageSource="Resources/flags_PNG14579.png">
+
+                </ImageBrush>
+            </Rectangle.Fill>
+        </Rectangle>
+        
+        <Label x:Name="CountryName" Content="Флаг Британии" Grid.ColumnSpan="2" HorizontalAlignment="Left" Height="67" Margin="73,0,0,0" VerticalAlignment="Center" Width="265" FontSize="36"/>
+        <Button Grid.Column="3" Content="Сдвинуть рисунок вправо" HorizontalAlignment="Center" Margin="0,43,0,0" Grid.Row="1" VerticalAlignment="Top" Height="42" Width="148" RenderTransformOrigin="0.752,1.311" Click="PucToRight"/>
+        <Button Grid.Column="3" Content="Измени цвет фона" HorizontalAlignment="Center" Margin="0,3,0,0" Grid.Row="2" VerticalAlignment="Top" Height="47" Width="148" Click="ColorChange"/>
+        <Button Grid.Column="3" Content="Мозаика" HorizontalAlignment="Center" Margin="0,58,0,0" Grid.Row="2" VerticalAlignment="Top" Height="46" Width="148" Grid.RowSpan="2" Click="Mozaika"/>
+        <Button Grid.Column="3" Content="Смена флага и надписи" HorizontalAlignment="Center" Margin="0,33,0,0" Grid.Row="3" VerticalAlignment="Top" Height="44" Width="148" Click="ChangeFlagAndName"/>
+        <Button Grid.Column="3" Content="Изменить надпись" HorizontalAlignment="Center" Margin="0,79,0,0" VerticalAlignment="Top" Height="46" Grid.RowSpan="2" Width="148" Click="ChangeName"/>
+    </Grid>
+
+
+</Window>
