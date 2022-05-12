@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "0QSp2XUqjI0W+LyNbjC45nJUfatG9pg/AjN/9IEho6xmsPWbgCfY/ViJLHbhgJugNfSYugb/9XrBgLTrVXRDfw==",
+  "success": true,
+  "projectFilePath": "D:\\developing\\c# шарага\\zad1-10\\Zd3\\Zd3\\Zd3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\naryk\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512",
+    "C:\\Users\\naryk\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\naryk\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\naryk\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

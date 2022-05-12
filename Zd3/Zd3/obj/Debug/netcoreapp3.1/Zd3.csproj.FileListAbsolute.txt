@@ -1,0 +1,14 @@
+D:\developing\c# шарага\zad1-10\Zd3\Zd3\bin\Debug\netcoreapp3.1\Zd3.exe
+D:\developing\c# шарага\zad1-10\Zd3\Zd3\bin\Debug\netcoreapp3.1\Zd3.deps.json
+D:\developing\c# шарага\zad1-10\Zd3\Zd3\bin\Debug\netcoreapp3.1\Zd3.runtimeconfig.json
+D:\developing\c# шарага\zad1-10\Zd3\Zd3\bin\Debug\netcoreapp3.1\Zd3.runtimeconfig.dev.json
+D:\developing\c# шарага\zad1-10\Zd3\Zd3\bin\Debug\netcoreapp3.1\Zd3.dll
+D:\developing\c# шарага\zad1-10\Zd3\Zd3\bin\Debug\netcoreapp3.1\Zd3.pdb
+D:\developing\c# шарага\zad1-10\Zd3\Zd3\obj\Debug\netcoreapp3.1\Zd3.csproj.AssemblyReference.cache
+D:\developing\c# шарага\zad1-10\Zd3\Zd3\obj\Debug\netcoreapp3.1\Zd3.GeneratedMSBuildEditorConfig.editorconfig
+D:\developing\c# шарага\zad1-10\Zd3\Zd3\obj\Debug\netcoreapp3.1\Zd3.AssemblyInfoInputs.cache
+D:\developing\c# шарага\zad1-10\Zd3\Zd3\obj\Debug\netcoreapp3.1\Zd3.AssemblyInfo.cs
+D:\developing\c# шарага\zad1-10\Zd3\Zd3\obj\Debug\netcoreapp3.1\Zd3.csproj.CoreCompileInputs.cache
+D:\developing\c# шарага\zad1-10\Zd3\Zd3\obj\Debug\netcoreapp3.1\Zd3.dll
+D:\developing\c# шарага\zad1-10\Zd3\Zd3\obj\Debug\netcoreapp3.1\Zd3.pdb
+D:\developing\c# шарага\zad1-10\Zd3\Zd3\obj\Debug\netcoreapp3.1\Zd3.genruntimeconfig.cache

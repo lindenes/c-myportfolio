@@ -1,0 +1,17 @@
+D:\developing\c# шарага\zad1-10\Zd5\Zd5\bin\Debug\netcoreapp3.1\Zd5.exe
+D:\developing\c# шарага\zad1-10\Zd5\Zd5\bin\Debug\netcoreapp3.1\Zd5.deps.json
+D:\developing\c# шарага\zad1-10\Zd5\Zd5\bin\Debug\netcoreapp3.1\Zd5.runtimeconfig.json
+D:\developing\c# шарага\zad1-10\Zd5\Zd5\bin\Debug\netcoreapp3.1\Zd5.runtimeconfig.dev.json
+D:\developing\c# шарага\zad1-10\Zd5\Zd5\bin\Debug\netcoreapp3.1\Zd5.dll
+D:\developing\c# шарага\zad1-10\Zd5\Zd5\bin\Debug\netcoreapp3.1\Zd5.pdb
+D:\developing\c# шарага\zad1-10\Zd5\Zd5\bin\Debug\netcoreapp3.1\Interop.Microsoft.Office.Interop.Excel.dll
+D:\developing\c# шарага\zad1-10\Zd5\Zd5\obj\Debug\netcoreapp3.1\Zd5.csproj.AssemblyReference.cache
+D:\developing\c# шарага\zad1-10\Zd5\Zd5\obj\Debug\netcoreapp3.1\Interop.Microsoft.Office.Interop.Excel.dll
+D:\developing\c# шарага\zad1-10\Zd5\Zd5\obj\Debug\netcoreapp3.1\Zd5.csproj.ResolveComReference.cache
+D:\developing\c# шарага\zad1-10\Zd5\Zd5\obj\Debug\netcoreapp3.1\Zd5.GeneratedMSBuildEditorConfig.editorconfig
+D:\developing\c# шарага\zad1-10\Zd5\Zd5\obj\Debug\netcoreapp3.1\Zd5.AssemblyInfoInputs.cache
+D:\developing\c# шарага\zad1-10\Zd5\Zd5\obj\Debug\netcoreapp3.1\Zd5.AssemblyInfo.cs
+D:\developing\c# шарага\zad1-10\Zd5\Zd5\obj\Debug\netcoreapp3.1\Zd5.csproj.CoreCompileInputs.cache
+D:\developing\c# шарага\zad1-10\Zd5\Zd5\obj\Debug\netcoreapp3.1\Zd5.dll
+D:\developing\c# шарага\zad1-10\Zd5\Zd5\obj\Debug\netcoreapp3.1\Zd5.pdb
+D:\developing\c# шарага\zad1-10\Zd5\Zd5\obj\Debug\netcoreapp3.1\Zd5.genruntimeconfig.cache
